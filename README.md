@@ -28,5 +28,24 @@ A modular repository of shortcuts, PowerShell one-liners, and Registry fixes for
 * **Alt + Space, then M**: Move a window using arrow keys (essential when a window is "stuck" off-screen on a disconnected second monitor).
 * **Ctrl + Win + Left/Right Arrow**: Switch between **Virtual Desktops**. Useful for keeping "Personal" and "IT Work" separate during a screen share.
 
+* ## 💡 Service Desk "Pro Tips"
+* **The "Copy Error" Trick**: Press **Ctrl + C** on any standard Windows error dialog to copy the text.
+* **Elevated Run**: Press **Ctrl + Shift + Enter** in the Run box to launch any tool as Admin.
+* **God Mode**: Create a folder named `GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}` for a master settings list.
+
+---
+
+## 📝 Ticket Documentation Template
+*Consistency is key for Tier 2 escalations.*
+
+**Issue:** [User Description]
+**Hostname:** [Output of `hostname`]
+**Uptime:** [Days/Hours]
+**Troubleshooting Steps Taken:**
+- [ ] Cleared Temp Files / Browser Cache
+- [ ] Ran `sfc /scannow`
+- [ ] Restarted `explorer.exe`
+**Result:** [Resolved / Escalated]
+
 > [!TIP]
 > To run any command as **Admin** from the Run box (Win+R), press `Ctrl + Shift + Enter`.
