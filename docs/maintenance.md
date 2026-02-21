@@ -1,4 +1,4 @@
-## 🧹 Maintainence & Cleanup
+## 🧹 Maintenance & Cleanup
 *Commands to clear the "junk" that often slows down standard office PCs.*
 
 ### 1. Clear Browser Cache (All Browsers)
